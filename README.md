@@ -1,5 +1,5 @@
 <h2> Hey there! I'm SAURAV SAGAR. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://c.tenor.com/arL-Och6Y7sAAAAC/connecting-loading.gif" width="400"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
