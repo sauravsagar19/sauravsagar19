@@ -13,7 +13,7 @@
 
 - 🌐 &nbsp; Developed an advanced AI-powered virtual assistant, Ruby, designed to streamline daily user workflows by offering robust local system control. This real-world application leverages cutting-edge AI to provide comprehensive answers to user queries across diverse subjects, enhancing productivity and accessibility.
 
-   - Launching soon on github.
+   <b>- Launching soon on github.</b>
 - 💻 160+ LeetCode problems solved (and ongoing) for developing robust skills in Data Structures & Algorithms, problem-solving, and competitive programming. <a href="https://leetcode.com/u/saurav_sagar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
 - 💻 200+ problems solved on Geeks for geeks (still counting). <a href="https://www.geeksforgeeks.org/user/sauravsagar2296/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
 
@@ -31,8 +31,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">  
-&nbsp; <a href="https://www.linkedin.com/in/saurav-sagar-6316ab201/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sauravsagar2296@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/saurav-sagar-6316ab201/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
+&nbsp; <a href="mailto:sauravsagar2296@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"  width="50" /></a>
 &nbsp; <a href="https://leetcode.com/u/saurav_sagar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="50" /></a>
 </a>
 &nbsp; <a href="https://www.geeksforgeeks.org/user/sauravsagar2296/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19293&format=png&color=000000" width="50" /></a>
