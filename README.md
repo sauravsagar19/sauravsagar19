@@ -11,11 +11,11 @@
 
 <h3>⭐️Highlights</h3>
 
-- 🌐 &nbsp; Developed an advanced AI-powered virtual assistant, Ruby, designed to streamline daily user workflows by offering robust local system control. This real-world application leverages cutting-edge AI to provide comprehensive answers to user queries across diverse subjects, enhancing productivity and accessibility.
-
-   <b>- Launching soon on github.</b>
-- 💻 160+ LeetCode problems solved (and ongoing) for developing robust skills in Data Structures & Algorithms, problem-solving, and competitive programming. <a href="https://leetcode.com/u/saurav_sagar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
-- 💻 200+ problems solved on Geeks for geeks (still counting). <a href="https://www.geeksforgeeks.org/user/sauravsagar2296/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
+- 🌐 &nbsp;Developed an advanced AI-powered virtual assistant, Ruby, designed to streamline daily user workflows by offering robust local system control. This real-world application leverages cutting-edge AI to provide comprehensive answers to user queries across diverse subjects, enhancing productivity and accessibility.
+   
+     &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img src="https://img.icons8.com/?size=100&id=1kX0jH69NbUF&format=png&color=000000" width="20" alt="Launching Soon Icon" /> <b>  Launching on github soon ! </b>
+- 💻&nbsp;160+ LeetCode problems solved (and ongoing) for developing robust skills in Data Structures & Algorithms, problem-solving, and competitive programming. <a href="https://leetcode.com/u/saurav_sagar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
+- 💻&nbsp;200+ problems solved on Geeks for geeks (still counting). <a href="https://www.geeksforgeeks.org/user/sauravsagar2296/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=98Pzb3JNQAry&format=png&color=000000" width="15" /></a>
 
 <h3>🛠 Tech Stack</h3>
 
