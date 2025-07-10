@@ -34,5 +34,7 @@
 &nbsp; <a href="https://www.linkedin.com/in/saurav-sagar-6316ab201/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sauravsagar2296@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://leetcode.com/u/saurav_sagar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="50" /></a>
+</a>
+&nbsp; <a href="https://www.geeksforgeeks.org/user/sauravsagar2296/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19293&format=png&color=000000" width="50" /></a>
 </p>
 
