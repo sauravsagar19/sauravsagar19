@@ -3,6 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+
 - 🔭 &nbsp; I’m currently focusing on competitive programming
 - 🎓 &nbsp; Pursuing my B.tech degree in Information technology
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
