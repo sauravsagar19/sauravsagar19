@@ -29,10 +29,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sauravsagar19&show_icons=true&locale=en&color=000000" alt="sauravsagar19 GitHub Stats" width="400" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sauravsagar19&show_icons=true&locale=en&color=000000" alt="sauravsagar19 GitHub Stats" width="600" height="165"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsagar19&color=000000" alt="sauravsagar19 GitHub Streak" width="400" height="165"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsagar19&color=000000" alt="sauravsagar19 GitHub Streak" width="600" height="165"/>
     </td>
   </tr>
 <!--   <tr>
