@@ -26,9 +26,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sauravsagar19&show_icons=true&locale=en&color=000000" alt="sauravsagar19" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsagar19&color=000000" alt="sauravsagar19" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sauravsagar19&show_icons=true&locale=en&color=000000" alt="sauravsagar19 GitHub Stats" width="400" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsagar19&color=000000" alt="sauravsagar19 GitHub Streak" width="400" height="165"/>
+    </td>
+  </tr>
+<!--   <tr>
+    <td colspan="2">
+      <p align="center">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+      </p>
+    </td>
+  </tr> -->
+</table>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
